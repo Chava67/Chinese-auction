@@ -1,0 +1,440 @@
+M:\web api\ChineseOction\ChineseOction\bin\Debug\net7.0\appsettings.Development.json
+M:\web api\ChineseOction\ChineseOction\bin\Debug\net7.0\appsettings.json
+M:\web api\ChineseOction\ChineseOction\bin\Debug\net7.0\ChineseOction.exe
+M:\web api\ChineseOction\ChineseOction\bin\Debug\net7.0\ChineseOction.deps.json
+M:\web api\ChineseOction\ChineseOction\bin\Debug\net7.0\ChineseOction.runtimeconfig.json
+M:\web api\ChineseOction\ChineseOction\bin\Debug\net7.0\ChineseOction.dll
+M:\web api\ChineseOction\ChineseOction\bin\Debug\net7.0\ChineseOction.pdb
+M:\web api\ChineseOction\ChineseOction\bin\Debug\net7.0\Azure.Core.dll
+M:\web api\ChineseOction\ChineseOction\bin\Debug\net7.0\Azure.Identity.dll
+M:\web api\ChineseOction\ChineseOction\bin\Debug\net7.0\Humanizer.dll
+M:\web api\ChineseOction\ChineseOction\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+M:\web api\ChineseOction\ChineseOction\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+M:\web api\ChineseOction\ChineseOction\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+M:\web api\ChineseOction\ChineseOction\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+M:\web api\ChineseOction\ChineseOction\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+M:\web api\ChineseOction\ChineseOction\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+M:\web api\ChineseOction\ChineseOction\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+M:\web api\ChineseOction\ChineseOction\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+M:\web api\ChineseOction\ChineseOction\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+M:\web api\ChineseOction\ChineseOction\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+M:\web api\ChineseOction\ChineseOction\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+M:\web api\ChineseOction\ChineseOction\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+M:\web api\ChineseOction\ChineseOction\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+M:\web api\ChineseOction\ChineseOction\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+M:\web api\ChineseOction\ChineseOction\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+M:\web api\ChineseOction\ChineseOction\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+M:\web api\ChineseOction\ChineseOction\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+M:\web api\ChineseOction\ChineseOction\bin\Debug\net7.0\Microsoft.OpenApi.dll
+M:\web api\ChineseOction\ChineseOction\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+M:\web api\ChineseOction\ChineseOction\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+M:\web api\ChineseOction\ChineseOction\bin\Debug\net7.0\Mono.TextTemplating.dll
+M:\web api\ChineseOction\ChineseOction\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+M:\web api\ChineseOction\ChineseOction\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+M:\web api\ChineseOction\ChineseOction\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+M:\web api\ChineseOction\ChineseOction\bin\Debug\net7.0\System.CodeDom.dll
+M:\web api\ChineseOction\ChineseOction\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+M:\web api\ChineseOction\ChineseOction\bin\Debug\net7.0\System.Drawing.Common.dll
+M:\web api\ChineseOction\ChineseOction\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+M:\web api\ChineseOction\ChineseOction\bin\Debug\net7.0\System.Memory.Data.dll
+M:\web api\ChineseOction\ChineseOction\bin\Debug\net7.0\System.Runtime.Caching.dll
+M:\web api\ChineseOction\ChineseOction\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+M:\web api\ChineseOction\ChineseOction\bin\Debug\net7.0\System.Security.Permissions.dll
+M:\web api\ChineseOction\ChineseOction\bin\Debug\net7.0\System.Windows.Extensions.dll
+M:\web api\ChineseOction\ChineseOction\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+M:\web api\ChineseOction\ChineseOction\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+M:\web api\ChineseOction\ChineseOction\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+M:\web api\ChineseOction\ChineseOction\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\web api\ChineseOction\ChineseOction\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\web api\ChineseOction\ChineseOction\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+M:\web api\ChineseOction\ChineseOction\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+M:\web api\ChineseOction\ChineseOction\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+M:\web api\ChineseOction\ChineseOction\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+M:\web api\ChineseOction\ChineseOction\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+M:\web api\ChineseOction\ChineseOction\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+M:\web api\ChineseOction\ChineseOction\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+M:\web api\ChineseOction\ChineseOction\obj\Debug\net7.0\ChineseOction.csproj.AssemblyReference.cache
+M:\web api\ChineseOction\ChineseOction\obj\Debug\net7.0\ChineseOction.GeneratedMSBuildEditorConfig.editorconfig
+M:\web api\ChineseOction\ChineseOction\obj\Debug\net7.0\ChineseOction.AssemblyInfoInputs.cache
+M:\web api\ChineseOction\ChineseOction\obj\Debug\net7.0\ChineseOction.AssemblyInfo.cs
+M:\web api\ChineseOction\ChineseOction\obj\Debug\net7.0\ChineseOction.csproj.CoreCompileInputs.cache
+M:\web api\ChineseOction\ChineseOction\obj\Debug\net7.0\ChineseOction.MvcApplicationPartsAssemblyInfo.cs
+M:\web api\ChineseOction\ChineseOction\obj\Debug\net7.0\ChineseOction.MvcApplicationPartsAssemblyInfo.cache
+M:\web api\ChineseOction\ChineseOction\obj\Debug\net7.0\staticwebassets.build.json
+M:\web api\ChineseOction\ChineseOction\obj\Debug\net7.0\staticwebassets.development.json
+M:\web api\ChineseOction\ChineseOction\obj\Debug\net7.0\staticwebassets\msbuild.ChineseOction.Microsoft.AspNetCore.StaticWebAssets.props
+M:\web api\ChineseOction\ChineseOction\obj\Debug\net7.0\staticwebassets\msbuild.build.ChineseOction.props
+M:\web api\ChineseOction\ChineseOction\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ChineseOction.props
+M:\web api\ChineseOction\ChineseOction\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ChineseOction.props
+M:\web api\ChineseOction\ChineseOction\obj\Debug\net7.0\staticwebassets.pack.json
+M:\web api\ChineseOction\ChineseOction\obj\Debug\net7.0\scopedcss\bundle\ChineseOction.styles.css
+M:\web api\ChineseOction\ChineseOction\obj\Debug\net7.0\ChineseOction.csproj.CopyComplete
+M:\web api\ChineseOction\ChineseOction\obj\Debug\net7.0\ChineseOction.dll
+M:\web api\ChineseOction\ChineseOction\obj\Debug\net7.0\refint\ChineseOction.dll
+M:\web api\ChineseOction\ChineseOction\obj\Debug\net7.0\ChineseOction.pdb
+M:\web api\ChineseOction\ChineseOction\obj\Debug\net7.0\ChineseOction.genruntimeconfig.cache
+M:\web api\ChineseOction\ChineseOction\obj\Debug\net7.0\ref\ChineseOction.dll
+M:\web api\ChineseOction\ChineseOction\bin\Debug\net7.0\AutoMapper.dll
+M:\web api\ChineseOction\ChineseOction\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\326053899\Desktop\New folder\ChineseOction\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\326053899\Desktop\New folder\ChineseOction\bin\Debug\net7.0\appsettings.json
+C:\Users\326053899\Desktop\New folder\ChineseOction\bin\Debug\net7.0\ChineseOction.exe
+C:\Users\326053899\Desktop\New folder\ChineseOction\bin\Debug\net7.0\ChineseOction.deps.json
+C:\Users\326053899\Desktop\New folder\ChineseOction\bin\Debug\net7.0\ChineseOction.runtimeconfig.json
+C:\Users\326053899\Desktop\New folder\ChineseOction\bin\Debug\net7.0\ChineseOction.dll
+C:\Users\326053899\Desktop\New folder\ChineseOction\bin\Debug\net7.0\ChineseOction.pdb
+C:\Users\326053899\Desktop\New folder\ChineseOction\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\326053899\Desktop\New folder\ChineseOction\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\326053899\Desktop\New folder\ChineseOction\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\326053899\Desktop\New folder\ChineseOction\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\326053899\Desktop\New folder\ChineseOction\bin\Debug\net7.0\Humanizer.dll
+C:\Users\326053899\Desktop\New folder\ChineseOction\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\326053899\Desktop\New folder\ChineseOction\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\326053899\Desktop\New folder\ChineseOction\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\326053899\Desktop\New folder\ChineseOction\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\326053899\Desktop\New folder\ChineseOction\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\326053899\Desktop\New folder\ChineseOction\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\326053899\Desktop\New folder\ChineseOction\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\326053899\Desktop\New folder\ChineseOction\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\326053899\Desktop\New folder\ChineseOction\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\326053899\Desktop\New folder\ChineseOction\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\326053899\Desktop\New folder\ChineseOction\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\326053899\Desktop\New folder\ChineseOction\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\326053899\Desktop\New folder\ChineseOction\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\326053899\Desktop\New folder\ChineseOction\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\326053899\Desktop\New folder\ChineseOction\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\326053899\Desktop\New folder\ChineseOction\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\326053899\Desktop\New folder\ChineseOction\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\326053899\Desktop\New folder\ChineseOction\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\326053899\Desktop\New folder\ChineseOction\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\326053899\Desktop\New folder\ChineseOction\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\326053899\Desktop\New folder\ChineseOction\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\326053899\Desktop\New folder\ChineseOction\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\326053899\Desktop\New folder\ChineseOction\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\326053899\Desktop\New folder\ChineseOction\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\326053899\Desktop\New folder\ChineseOction\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\326053899\Desktop\New folder\ChineseOction\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\326053899\Desktop\New folder\ChineseOction\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\326053899\Desktop\New folder\ChineseOction\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\326053899\Desktop\New folder\ChineseOction\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\326053899\Desktop\New folder\ChineseOction\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\326053899\Desktop\New folder\ChineseOction\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\326053899\Desktop\New folder\ChineseOction\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\326053899\Desktop\New folder\ChineseOction\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\326053899\Desktop\New folder\ChineseOction\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\326053899\Desktop\New folder\ChineseOction\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\326053899\Desktop\New folder\ChineseOction\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\326053899\Desktop\New folder\ChineseOction\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\326053899\Desktop\New folder\ChineseOction\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\326053899\Desktop\New folder\ChineseOction\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\326053899\Desktop\New folder\ChineseOction\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\326053899\Desktop\New folder\ChineseOction\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\326053899\Desktop\New folder\ChineseOction\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\326053899\Desktop\New folder\ChineseOction\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\326053899\Desktop\New folder\ChineseOction\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\326053899\Desktop\New folder\ChineseOction\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\326053899\Desktop\New folder\ChineseOction\obj\Debug\net7.0\ChineseOction.csproj.AssemblyReference.cache
+C:\Users\326053899\Desktop\New folder\ChineseOction\obj\Debug\net7.0\ChineseOction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\326053899\Desktop\New folder\ChineseOction\obj\Debug\net7.0\ChineseOction.AssemblyInfoInputs.cache
+C:\Users\326053899\Desktop\New folder\ChineseOction\obj\Debug\net7.0\ChineseOction.AssemblyInfo.cs
+C:\Users\326053899\Desktop\New folder\ChineseOction\obj\Debug\net7.0\ChineseOction.csproj.CoreCompileInputs.cache
+C:\Users\326053899\Desktop\New folder\ChineseOction\obj\Debug\net7.0\ChineseOction.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\326053899\Desktop\New folder\ChineseOction\obj\Debug\net7.0\ChineseOction.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\326053899\Desktop\New folder\ChineseOction\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\326053899\Desktop\New folder\ChineseOction\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\326053899\Desktop\New folder\ChineseOction\obj\Debug\net7.0\staticwebassets\msbuild.ChineseOction.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\326053899\Desktop\New folder\ChineseOction\obj\Debug\net7.0\staticwebassets\msbuild.build.ChineseOction.props
+C:\Users\326053899\Desktop\New folder\ChineseOction\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ChineseOction.props
+C:\Users\326053899\Desktop\New folder\ChineseOction\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ChineseOction.props
+C:\Users\326053899\Desktop\New folder\ChineseOction\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\326053899\Desktop\New folder\ChineseOction\obj\Debug\net7.0\scopedcss\bundle\ChineseOction.styles.css
+C:\Users\326053899\Desktop\New folder\ChineseOction\obj\Debug\net7.0\ChineseOction.csproj.CopyComplete
+C:\Users\326053899\Desktop\New folder\ChineseOction\obj\Debug\net7.0\ChineseOction.dll
+C:\Users\326053899\Desktop\New folder\ChineseOction\obj\Debug\net7.0\refint\ChineseOction.dll
+C:\Users\326053899\Desktop\New folder\ChineseOction\obj\Debug\net7.0\ChineseOction.pdb
+C:\Users\326053899\Desktop\New folder\ChineseOction\obj\Debug\net7.0\ChineseOction.genruntimeconfig.cache
+C:\Users\326053899\Desktop\New folder\ChineseOction\obj\Debug\net7.0\ref\ChineseOction.dll
+M:\web api\New folder\ChineseOction\bin\Debug\net7.0\appsettings.Development.json
+M:\web api\New folder\ChineseOction\bin\Debug\net7.0\appsettings.json
+M:\web api\New folder\ChineseOction\bin\Debug\net7.0\ChineseOction.exe
+M:\web api\New folder\ChineseOction\bin\Debug\net7.0\ChineseOction.deps.json
+M:\web api\New folder\ChineseOction\bin\Debug\net7.0\ChineseOction.runtimeconfig.json
+M:\web api\New folder\ChineseOction\bin\Debug\net7.0\ChineseOction.dll
+M:\web api\New folder\ChineseOction\bin\Debug\net7.0\ChineseOction.pdb
+M:\web api\New folder\ChineseOction\bin\Debug\net7.0\AutoMapper.dll
+M:\web api\New folder\ChineseOction\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+M:\web api\New folder\ChineseOction\bin\Debug\net7.0\Azure.Core.dll
+M:\web api\New folder\ChineseOction\bin\Debug\net7.0\Azure.Identity.dll
+M:\web api\New folder\ChineseOction\bin\Debug\net7.0\Humanizer.dll
+M:\web api\New folder\ChineseOction\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+M:\web api\New folder\ChineseOction\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+M:\web api\New folder\ChineseOction\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+M:\web api\New folder\ChineseOction\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+M:\web api\New folder\ChineseOction\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+M:\web api\New folder\ChineseOction\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+M:\web api\New folder\ChineseOction\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+M:\web api\New folder\ChineseOction\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+M:\web api\New folder\ChineseOction\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+M:\web api\New folder\ChineseOction\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+M:\web api\New folder\ChineseOction\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+M:\web api\New folder\ChineseOction\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+M:\web api\New folder\ChineseOction\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+M:\web api\New folder\ChineseOction\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+M:\web api\New folder\ChineseOction\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+M:\web api\New folder\ChineseOction\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+M:\web api\New folder\ChineseOction\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+M:\web api\New folder\ChineseOction\bin\Debug\net7.0\Microsoft.OpenApi.dll
+M:\web api\New folder\ChineseOction\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+M:\web api\New folder\ChineseOction\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+M:\web api\New folder\ChineseOction\bin\Debug\net7.0\Mono.TextTemplating.dll
+M:\web api\New folder\ChineseOction\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+M:\web api\New folder\ChineseOction\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+M:\web api\New folder\ChineseOction\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+M:\web api\New folder\ChineseOction\bin\Debug\net7.0\System.CodeDom.dll
+M:\web api\New folder\ChineseOction\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+M:\web api\New folder\ChineseOction\bin\Debug\net7.0\System.Drawing.Common.dll
+M:\web api\New folder\ChineseOction\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+M:\web api\New folder\ChineseOction\bin\Debug\net7.0\System.Memory.Data.dll
+M:\web api\New folder\ChineseOction\bin\Debug\net7.0\System.Runtime.Caching.dll
+M:\web api\New folder\ChineseOction\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+M:\web api\New folder\ChineseOction\bin\Debug\net7.0\System.Security.Permissions.dll
+M:\web api\New folder\ChineseOction\bin\Debug\net7.0\System.Windows.Extensions.dll
+M:\web api\New folder\ChineseOction\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+M:\web api\New folder\ChineseOction\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+M:\web api\New folder\ChineseOction\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+M:\web api\New folder\ChineseOction\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\web api\New folder\ChineseOction\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\web api\New folder\ChineseOction\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+M:\web api\New folder\ChineseOction\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+M:\web api\New folder\ChineseOction\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+M:\web api\New folder\ChineseOction\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+M:\web api\New folder\ChineseOction\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+M:\web api\New folder\ChineseOction\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+M:\web api\New folder\ChineseOction\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+M:\web api\New folder\ChineseOction\obj\Debug\net7.0\ChineseOction.csproj.AssemblyReference.cache
+M:\web api\New folder\ChineseOction\obj\Debug\net7.0\ChineseOction.GeneratedMSBuildEditorConfig.editorconfig
+M:\web api\New folder\ChineseOction\obj\Debug\net7.0\ChineseOction.AssemblyInfoInputs.cache
+M:\web api\New folder\ChineseOction\obj\Debug\net7.0\ChineseOction.AssemblyInfo.cs
+M:\web api\New folder\ChineseOction\obj\Debug\net7.0\ChineseOction.csproj.CoreCompileInputs.cache
+M:\web api\New folder\ChineseOction\obj\Debug\net7.0\ChineseOction.MvcApplicationPartsAssemblyInfo.cs
+M:\web api\New folder\ChineseOction\obj\Debug\net7.0\ChineseOction.MvcApplicationPartsAssemblyInfo.cache
+M:\web api\New folder\ChineseOction\obj\Debug\net7.0\staticwebassets.build.json
+M:\web api\New folder\ChineseOction\obj\Debug\net7.0\staticwebassets.development.json
+M:\web api\New folder\ChineseOction\obj\Debug\net7.0\staticwebassets\msbuild.ChineseOction.Microsoft.AspNetCore.StaticWebAssets.props
+M:\web api\New folder\ChineseOction\obj\Debug\net7.0\staticwebassets\msbuild.build.ChineseOction.props
+M:\web api\New folder\ChineseOction\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ChineseOction.props
+M:\web api\New folder\ChineseOction\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ChineseOction.props
+M:\web api\New folder\ChineseOction\obj\Debug\net7.0\staticwebassets.pack.json
+M:\web api\New folder\ChineseOction\obj\Debug\net7.0\scopedcss\bundle\ChineseOction.styles.css
+M:\web api\New folder\ChineseOction\obj\Debug\net7.0\ChineseOction.csproj.CopyComplete
+M:\web api\New folder\ChineseOction\obj\Debug\net7.0\ChineseOction.dll
+M:\web api\New folder\ChineseOction\obj\Debug\net7.0\refint\ChineseOction.dll
+M:\web api\New folder\ChineseOction\obj\Debug\net7.0\ChineseOction.pdb
+M:\web api\New folder\ChineseOction\obj\Debug\net7.0\ChineseOction.genruntimeconfig.cache
+M:\web api\New folder\ChineseOction\obj\Debug\net7.0\ref\ChineseOction.dll
+C:\Users\The user\Desktop\web-api\project\ChineseOction\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\The user\Desktop\web-api\project\ChineseOction\bin\Debug\net7.0\appsettings.json
+C:\Users\The user\Desktop\web-api\project\ChineseOction\bin\Debug\net7.0\ChineseOction.exe
+C:\Users\The user\Desktop\web-api\project\ChineseOction\bin\Debug\net7.0\ChineseOction.deps.json
+C:\Users\The user\Desktop\web-api\project\ChineseOction\bin\Debug\net7.0\ChineseOction.runtimeconfig.json
+C:\Users\The user\Desktop\web-api\project\ChineseOction\bin\Debug\net7.0\ChineseOction.dll
+C:\Users\The user\Desktop\web-api\project\ChineseOction\bin\Debug\net7.0\ChineseOction.pdb
+C:\Users\The user\Desktop\web-api\project\ChineseOction\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\The user\Desktop\web-api\project\ChineseOction\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\The user\Desktop\web-api\project\ChineseOction\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\The user\Desktop\web-api\project\ChineseOction\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\The user\Desktop\web-api\project\ChineseOction\bin\Debug\net7.0\Humanizer.dll
+C:\Users\The user\Desktop\web-api\project\ChineseOction\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\The user\Desktop\web-api\project\ChineseOction\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\The user\Desktop\web-api\project\ChineseOction\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\The user\Desktop\web-api\project\ChineseOction\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\The user\Desktop\web-api\project\ChineseOction\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\The user\Desktop\web-api\project\ChineseOction\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\The user\Desktop\web-api\project\ChineseOction\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\The user\Desktop\web-api\project\ChineseOction\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\The user\Desktop\web-api\project\ChineseOction\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\The user\Desktop\web-api\project\ChineseOction\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\The user\Desktop\web-api\project\ChineseOction\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\The user\Desktop\web-api\project\ChineseOction\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\The user\Desktop\web-api\project\ChineseOction\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\The user\Desktop\web-api\project\ChineseOction\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\The user\Desktop\web-api\project\ChineseOction\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\The user\Desktop\web-api\project\ChineseOction\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\The user\Desktop\web-api\project\ChineseOction\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\The user\Desktop\web-api\project\ChineseOction\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\The user\Desktop\web-api\project\ChineseOction\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\The user\Desktop\web-api\project\ChineseOction\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\The user\Desktop\web-api\project\ChineseOction\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\The user\Desktop\web-api\project\ChineseOction\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\The user\Desktop\web-api\project\ChineseOction\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\The user\Desktop\web-api\project\ChineseOction\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\The user\Desktop\web-api\project\ChineseOction\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\The user\Desktop\web-api\project\ChineseOction\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\The user\Desktop\web-api\project\ChineseOction\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\The user\Desktop\web-api\project\ChineseOction\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\The user\Desktop\web-api\project\ChineseOction\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\The user\Desktop\web-api\project\ChineseOction\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\The user\Desktop\web-api\project\ChineseOction\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\The user\Desktop\web-api\project\ChineseOction\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\The user\Desktop\web-api\project\ChineseOction\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\The user\Desktop\web-api\project\ChineseOction\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\The user\Desktop\web-api\project\ChineseOction\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\The user\Desktop\web-api\project\ChineseOction\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\The user\Desktop\web-api\project\ChineseOction\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\The user\Desktop\web-api\project\ChineseOction\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\The user\Desktop\web-api\project\ChineseOction\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\The user\Desktop\web-api\project\ChineseOction\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\The user\Desktop\web-api\project\ChineseOction\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\The user\Desktop\web-api\project\ChineseOction\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\The user\Desktop\web-api\project\ChineseOction\obj\Debug\net7.0\ChineseOction.csproj.AssemblyReference.cache
+C:\Users\The user\Desktop\web-api\project\ChineseOction\obj\Debug\net7.0\ChineseOction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The user\Desktop\web-api\project\ChineseOction\obj\Debug\net7.0\ChineseOction.AssemblyInfoInputs.cache
+C:\Users\The user\Desktop\web-api\project\ChineseOction\obj\Debug\net7.0\ChineseOction.AssemblyInfo.cs
+C:\Users\The user\Desktop\web-api\project\ChineseOction\obj\Debug\net7.0\ChineseOction.csproj.CoreCompileInputs.cache
+C:\Users\The user\Desktop\web-api\project\ChineseOction\obj\Debug\net7.0\ChineseOction.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\The user\Desktop\web-api\project\ChineseOction\obj\Debug\net7.0\ChineseOction.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\The user\Desktop\web-api\project\ChineseOction\obj\Debug\net7.0\staticwebassets\msbuild.ChineseOction.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\The user\Desktop\web-api\project\ChineseOction\obj\Debug\net7.0\staticwebassets\msbuild.build.ChineseOction.props
+C:\Users\The user\Desktop\web-api\project\ChineseOction\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ChineseOction.props
+C:\Users\The user\Desktop\web-api\project\ChineseOction\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ChineseOction.props
+C:\Users\The user\Desktop\web-api\project\ChineseOction\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\The user\Desktop\web-api\project\ChineseOction\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\The user\Desktop\web-api\project\ChineseOction\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\The user\Desktop\web-api\project\ChineseOction\obj\Debug\net7.0\scopedcss\bundle\ChineseOction.styles.css
+C:\Users\The user\Desktop\web-api\project\ChineseOction\obj\Debug\net7.0\ChineseOction.csproj.CopyComplete
+C:\Users\The user\Desktop\web-api\project\ChineseOction\obj\Debug\net7.0\ChineseOction.dll
+C:\Users\The user\Desktop\web-api\project\ChineseOction\obj\Debug\net7.0\refint\ChineseOction.dll
+C:\Users\The user\Desktop\web-api\project\ChineseOction\obj\Debug\net7.0\ChineseOction.pdb
+C:\Users\The user\Desktop\web-api\project\ChineseOction\obj\Debug\net7.0\ChineseOction.genruntimeconfig.cache
+C:\Users\The user\Desktop\web-api\project\ChineseOction\obj\Debug\net7.0\ref\ChineseOction.dll
+C:\Users\The user\Desktop\web-api\project\ChineseOction\obj\Debug\net7.0\ChineseOction.Properties.Resources.resources
+C:\Users\The user\Desktop\web-api\project\ChineseOction\obj\Debug\net7.0\ChineseOction.csproj.GenerateResource.cache
+C:\Users\The user\Desktop\web-api\project\ChineseOction\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\The user\Desktop\web-api\project\ChineseOction\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+C:\Users\The user\Desktop\web-api\project\ChineseOction\bin\Debug\net7.0\EPPlus.dll
+C:\Users\The user\Desktop\web-api\project\ChineseOction\bin\Debug\net7.0\EPPlus.Interfaces.dll
+C:\Users\The user\Desktop\web-api\project\ChineseOction\bin\Debug\net7.0\EPPlus.System.Drawing.dll
+C:\Users\The user\Desktop\web-api\project\ChineseOction\bin\Debug\net7.0\itextsharp.dll
+C:\Users\The user\Desktop\web-api\project\ChineseOction\bin\Debug\net7.0\Microsoft.Extensions.Configuration.dll
+C:\Users\The user\Desktop\web-api\project\ChineseOction\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\The user\Desktop\web-api\project\ChineseOction\bin\Debug\net7.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\The user\Desktop\web-api\project\ChineseOction\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\The user\Desktop\web-api\project\ChineseOction\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\The user\Desktop\web-api\project\ChineseOction\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\The user\Desktop\web-api\project\ChineseOction\bin\Debug\net7.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\The user\Desktop\web-api\project\ChineseOction\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\The user\Desktop\web-api\project\ChineseOction\bin\Debug\net7.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\The user\Desktop\web-api\project\ChineseOction\bin\Debug\net7.0\System.Formats.Asn1.dll
+C:\Users\The user\Desktop\web-api\project\ChineseOction\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\The user\Desktop\web-api\project\ChineseOction\bin\Debug\net7.0\System.Text.Encoding.CodePages.dll
+C:\Users\The user\Desktop\web-api\project\ChineseOction\bin\Debug\net7.0\System.Text.Encodings.Web.dll
+C:\Users\The user\Desktop\web-api\project\ChineseOction\bin\Debug\net7.0\System.Text.Json.dll
+C:\Users\The user\Desktop\web-api\project\ChineseOction\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\The user\Desktop\web-api\project\ChineseOction\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\The user\Desktop\web-api\project\ChineseOction\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\The user\Desktop\web-api\project\ChineseOction\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Text.Encoding.CodePages.dll
+C:\Users\The user\Desktop\web-api\project\ChineseOction\bin\Debug\net7.0\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
+C:\Users\The user\Desktop\web-api\project\ChineseOction\bin\Debug\net7.0\ChineseOction.staticwebassets.runtime.json
+E:\לימודים\web api\project\server\ChineseOction\bin\Debug\net7.0\appsettings.Development.json
+E:\לימודים\web api\project\server\ChineseOction\bin\Debug\net7.0\appsettings.json
+E:\לימודים\web api\project\server\ChineseOction\bin\Debug\net7.0\ChineseOction.staticwebassets.runtime.json
+E:\לימודים\web api\project\server\ChineseOction\bin\Debug\net7.0\ChineseOction.exe
+E:\לימודים\web api\project\server\ChineseOction\bin\Debug\net7.0\ChineseOction.deps.json
+E:\לימודים\web api\project\server\ChineseOction\bin\Debug\net7.0\ChineseOction.runtimeconfig.json
+E:\לימודים\web api\project\server\ChineseOction\bin\Debug\net7.0\ChineseOction.dll
+E:\לימודים\web api\project\server\ChineseOction\bin\Debug\net7.0\ChineseOction.pdb
+E:\לימודים\web api\project\server\ChineseOction\bin\Debug\net7.0\AutoMapper.dll
+E:\לימודים\web api\project\server\ChineseOction\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\לימודים\web api\project\server\ChineseOction\bin\Debug\net7.0\Azure.Core.dll
+E:\לימודים\web api\project\server\ChineseOction\bin\Debug\net7.0\Azure.Identity.dll
+E:\לימודים\web api\project\server\ChineseOction\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+E:\לימודים\web api\project\server\ChineseOction\bin\Debug\net7.0\EPPlus.dll
+E:\לימודים\web api\project\server\ChineseOction\bin\Debug\net7.0\EPPlus.Interfaces.dll
+E:\לימודים\web api\project\server\ChineseOction\bin\Debug\net7.0\EPPlus.System.Drawing.dll
+E:\לימודים\web api\project\server\ChineseOction\bin\Debug\net7.0\Humanizer.dll
+E:\לימודים\web api\project\server\ChineseOction\bin\Debug\net7.0\itextsharp.dll
+E:\לימודים\web api\project\server\ChineseOction\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\לימודים\web api\project\server\ChineseOction\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\לימודים\web api\project\server\ChineseOction\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\לימודים\web api\project\server\ChineseOction\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\לימודים\web api\project\server\ChineseOction\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\לימודים\web api\project\server\ChineseOction\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\לימודים\web api\project\server\ChineseOction\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\לימודים\web api\project\server\ChineseOction\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\לימודים\web api\project\server\ChineseOction\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\לימודים\web api\project\server\ChineseOction\bin\Debug\net7.0\Microsoft.Extensions.Configuration.dll
+E:\לימודים\web api\project\server\ChineseOction\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\לימודים\web api\project\server\ChineseOction\bin\Debug\net7.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\לימודים\web api\project\server\ChineseOction\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Json.dll
+E:\לימודים\web api\project\server\ChineseOction\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\לימודים\web api\project\server\ChineseOction\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\לימודים\web api\project\server\ChineseOction\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Physical.dll
+E:\לימודים\web api\project\server\ChineseOction\bin\Debug\net7.0\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\לימודים\web api\project\server\ChineseOction\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+E:\לימודים\web api\project\server\ChineseOction\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\לימודים\web api\project\server\ChineseOction\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\לימודים\web api\project\server\ChineseOction\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\לימודים\web api\project\server\ChineseOction\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\לימודים\web api\project\server\ChineseOction\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\לימודים\web api\project\server\ChineseOction\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\לימודים\web api\project\server\ChineseOction\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\לימודים\web api\project\server\ChineseOction\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\לימודים\web api\project\server\ChineseOction\bin\Debug\net7.0\Microsoft.IO.RecyclableMemoryStream.dll
+E:\לימודים\web api\project\server\ChineseOction\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\לימודים\web api\project\server\ChineseOction\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\לימודים\web api\project\server\ChineseOction\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\לימודים\web api\project\server\ChineseOction\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\לימודים\web api\project\server\ChineseOction\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\לימודים\web api\project\server\ChineseOction\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\לימודים\web api\project\server\ChineseOction\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\לימודים\web api\project\server\ChineseOction\bin\Debug\net7.0\System.CodeDom.dll
+E:\לימודים\web api\project\server\ChineseOction\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\לימודים\web api\project\server\ChineseOction\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\לימודים\web api\project\server\ChineseOction\bin\Debug\net7.0\System.Formats.Asn1.dll
+E:\לימודים\web api\project\server\ChineseOction\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\לימודים\web api\project\server\ChineseOction\bin\Debug\net7.0\System.Memory.Data.dll
+E:\לימודים\web api\project\server\ChineseOction\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\לימודים\web api\project\server\ChineseOction\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
+E:\לימודים\web api\project\server\ChineseOction\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\לימודים\web api\project\server\ChineseOction\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\לימודים\web api\project\server\ChineseOction\bin\Debug\net7.0\System.Text.Encoding.CodePages.dll
+E:\לימודים\web api\project\server\ChineseOction\bin\Debug\net7.0\System.Text.Encodings.Web.dll
+E:\לימודים\web api\project\server\ChineseOction\bin\Debug\net7.0\System.Text.Json.dll
+E:\לימודים\web api\project\server\ChineseOction\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\לימודים\web api\project\server\ChineseOction\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\לימודים\web api\project\server\ChineseOction\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\לימודים\web api\project\server\ChineseOction\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\לימודים\web api\project\server\ChineseOction\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\לימודים\web api\project\server\ChineseOction\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\לימודים\web api\project\server\ChineseOction\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\לימודים\web api\project\server\ChineseOction\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\לימודים\web api\project\server\ChineseOction\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+E:\לימודים\web api\project\server\ChineseOction\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\לימודים\web api\project\server\ChineseOction\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+E:\לימודים\web api\project\server\ChineseOction\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\לימודים\web api\project\server\ChineseOction\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Text.Encoding.CodePages.dll
+E:\לימודים\web api\project\server\ChineseOction\bin\Debug\net7.0\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
+E:\לימודים\web api\project\server\ChineseOction\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\לימודים\web api\project\server\ChineseOction\obj\Debug\net7.0\ChineseOction.csproj.AssemblyReference.cache
+E:\לימודים\web api\project\server\ChineseOction\obj\Debug\net7.0\ChineseOction.Properties.Resources.resources
+E:\לימודים\web api\project\server\ChineseOction\obj\Debug\net7.0\ChineseOction.csproj.GenerateResource.cache
+E:\לימודים\web api\project\server\ChineseOction\obj\Debug\net7.0\ChineseOction.GeneratedMSBuildEditorConfig.editorconfig
+E:\לימודים\web api\project\server\ChineseOction\obj\Debug\net7.0\ChineseOction.AssemblyInfoInputs.cache
+E:\לימודים\web api\project\server\ChineseOction\obj\Debug\net7.0\ChineseOction.AssemblyInfo.cs
+E:\לימודים\web api\project\server\ChineseOction\obj\Debug\net7.0\ChineseOction.csproj.CoreCompileInputs.cache
+E:\לימודים\web api\project\server\ChineseOction\obj\Debug\net7.0\ChineseOction.MvcApplicationPartsAssemblyInfo.cs
+E:\לימודים\web api\project\server\ChineseOction\obj\Debug\net7.0\ChineseOction.MvcApplicationPartsAssemblyInfo.cache
+E:\לימודים\web api\project\server\ChineseOction\obj\Debug\net7.0\staticwebassets\msbuild.ChineseOction.Microsoft.AspNetCore.StaticWebAssets.props
+E:\לימודים\web api\project\server\ChineseOction\obj\Debug\net7.0\staticwebassets\msbuild.build.ChineseOction.props
+E:\לימודים\web api\project\server\ChineseOction\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ChineseOction.props
+E:\לימודים\web api\project\server\ChineseOction\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ChineseOction.props
+E:\לימודים\web api\project\server\ChineseOction\obj\Debug\net7.0\staticwebassets.pack.json
+E:\לימודים\web api\project\server\ChineseOction\obj\Debug\net7.0\staticwebassets.build.json
+E:\לימודים\web api\project\server\ChineseOction\obj\Debug\net7.0\staticwebassets.development.json
+E:\לימודים\web api\project\server\ChineseOction\obj\Debug\net7.0\scopedcss\bundle\ChineseOction.styles.css
+E:\לימודים\web api\project\server\ChineseOction\obj\Debug\net7.0\ChineseOction.csproj.CopyComplete
+E:\לימודים\web api\project\server\ChineseOction\obj\Debug\net7.0\ChineseOction.dll
+E:\לימודים\web api\project\server\ChineseOction\obj\Debug\net7.0\refint\ChineseOction.dll
+E:\לימודים\web api\project\server\ChineseOction\obj\Debug\net7.0\ChineseOction.pdb
+E:\לימודים\web api\project\server\ChineseOction\obj\Debug\net7.0\ChineseOction.genruntimeconfig.cache
+E:\לימודים\web api\project\server\ChineseOction\obj\Debug\net7.0\ref\ChineseOction.dll

@@ -1,0 +1,60 @@
+// שמירת הטוקן ב-LocalStorage
+localStorage.setItem('token', tokenString);
+
+// קריאת הטוקן מ-LocalStorage
+const token = localStorage.getItem('token');
+
+import React, { useState, useEffect } from 'react';
+import axios from 'axios';
+
+const API_URL = 'http://localhost:5000/api'; // כתובת ה-URL של ה-API שלך
+
+function App() {
+  const [token, setToken] = useState(null);
+
+  // הפעלת בקשה על מנת לקבל את הטוקן
+  useEffect(() => {
+    // קריאה אסינכרונית לפונקציית fetchToken
+    const fetchToken = async () => {
+      try {
+        const response = await axios.post(`${API_URL}/login`, {
+          username: 'myusername',
+          password: 'mypassword'
+        });
+        const { Token } = response.data; // קבלת הטוקן מהתשובה
+        setToken(Token); // שמירת הטוקן ב-state
+      } catch (error) {
+        console.error('Error fetching token:', error);
+      }
+    };
+
+    fetchToken(); // קריאה לפונקציה כדי לבצע את הבקשה
+  }, []); // ריקון התלות מהשינוי ב-[]
+
+  // פונקציה לביצוע בקשת GET מאובטחת לשרת
+  const fetchData = async () => {
+    try {
+      const response = await axios.get(`${API_URL}/data`, {
+        headers: {
+          Authorization: `Bearer ${token}` // הוספת הטוקן בכותרת ה-Authorization
+        }
+      });
+      console.log('Data from server:', response.data);
+    } catch (error) {
+      console.error('Error fetching data:', error);
+    }
+  };
+
+  return (
+    <div className="App">
+      <h1>טוקן ב-React</h1>
+      {token ? (
+        <button onClick={fetchData}>לקבלת נתונים מאובטחים</button>
+      ) : (
+        <p>ממתין לקבלת טוקן...</p>
+      )}
+    </div>
+  );
+}
+
+export default App;

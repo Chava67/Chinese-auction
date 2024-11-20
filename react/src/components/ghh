@@ -1,0 +1,92 @@
+import { get, remove, update } from "../axios/httpRequest"
+import React, { useState, useEffect, useRef } from 'react';
+import { Button } from 'primereact/button';
+import { DataView } from 'primereact/dataview';
+import { classNames } from 'primereact/utils';
+import { Avatar } from 'primereact/avatar';
+import UpdateGift from "./UpdateGift";
+import AddGift from "./AddGift";
+import { Toast } from 'primereact/toast';
+
+const GiftManagement = () => {
+    const [gifts, setGifts] = useState([])
+    const getAll = async () => {
+        const a = await get("/api/gift")
+        setGifts(a)
+    }
+    const toast = useRef(null);
+    const showError = () => {
+        toast.current.show({ severity: 'error', summary: 'Error', detail: 'This gift already has gifts', life: 3000 });
+    }
+    useEffect(() => {
+        getAll()
+    }, [setGifts])
+
+    const getGiftsSmall = () => {
+        return Promise.resolve(gifts.slice(0, 10));
+    }
+    useEffect(() => {
+        getGiftsSmall().then((data) => setGifts(data.slice(0, 5)));
+    }, []);
+    const deleteGifts = async (gift) => {
+        const res = await remove(`/api/gift/${gift.id}`)
+        if (res != "") {
+            showError()
+        }
+        getAll()
+    }
+    const itemTemplate = (gift, index) => {
+        return (
+            <div className="col-12" key={gift.id}>
+                <div className={classNames('flex flex-column xl:flex-row xl:align-items-start p-4 gap-4', { 'border-top-1 surface-border': index !== 0 })}>
+                    <img className="w-9 sm:w-16rem xl:w-10rem shadow-2 block " src={`images/${gift.picture}`} shape="circle" alt={gift.name} />
+                    {/* <Avatar image={`images/${gift.picture}`} className="mr-2" size="xlarge" shape="circle" /> */}
+                    <div className="flex flex-column sm:flex-row justify-content-between align-items-center xl:align-items-start flex-1 gap-4">
+                        <div className="flex flex-column align-items-center sm:align-items-start gap-3">
+                            <div className="text-2xl font-bold text-900">{gift.name}</div>
+                            {/* <Rating value={gift.rating} readOnly cancel={false}></Rating> */}
+                            <div className="flex align-items-center gap-3">
+                                <span className="flex align-items-center gap-2">
+                                    <i className="pi pi-tag"></i>
+                                    <span className="font-semibold">{gift.category.name}</span>
+
+                                </span>
+                                {/* <Tag value={gift.inventoryStatus} severity={getSeverity(gift)}></Tag> */}
+                            </div>
+                            <div className="flex align-items-center gap-3">
+                                <span className="flex align-items-center gap-2">
+                                    <span className="text-2xl font-semibold">${gift.price}</span>
+                                </span>
+                                {/* <Tag value={gift.inventoryStatus} severity={getSeverity(gift)}></Tag> */}
+                            </div>
+                        </div>
+
+                        <div className="flex sm:flex-column align-items-center sm:align-items-end gap-3 sm:gap-2">
+                            <UpdateGift gift={gift} setgifts={setGifts} getAll={getAll}></UpdateGift>
+                            <Button label="Delete" icon="pi pi-trash" onClick={() => deleteGifts(gift)} />
+                            <Toast ref={toast} />
+                        </div>
+                    </div>
+                </div>
+            </div>
+        );
+    };
+    const listTemplate = (items) => {
+        if (!items || items.length === 0) return null;
+        let list = items.map((gift, index) => {
+            //console.log(gift.gifts[0]);
+            return itemTemplate(gift, index);
+        });
+        return <div className="grid grid-nogutter">{list}</div>;
+    };
+    return (
+        <>
+            <AddGift getAll={getAll}></AddGift>
+            <div className="card">
+                <DataView value={gifts} listTemplate={listTemplate} />
+            </div>
+        </>
+
+    )
+}
+export default GiftManagement
